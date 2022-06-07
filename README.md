@@ -1,4 +1,4 @@
-👋 Hi there I am ragha and an aspiring data analyst
+###### 👋 Hi there I am ragha and an aspiring data analyst
 ###### 👀 I’m interested in Data analysis and Artifical Intelligence
 ###### 🌱 I’m currently:
 - Learning Power BI and MySQL
