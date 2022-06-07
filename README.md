@@ -6,9 +6,14 @@
 - Learning Machine Learning ie. scikit-learn, linear regressions, different types of algorithms
 - Revisiting Power Query and Power Pivot in Excel 
 
-###### 💞️ I’m looking to collaborate on Data analysis projects
-###### 📫 How to reach me : raghaje@gmail.com
+###### Core competencies:
+- Tools: SQL,Python,Power Bi,MS Excel
+- Skills: Data Analysis,Data Visualization,Data Cleaning and Wrangling,Machine Learning,Dashboard development and Design
 
+###### 💞️ I’m looking to collaborate on Data analysis projects
+###### 📫 How to reach me :
+ - [LinkedIn](https://www.linkedin.com/in/raghavendraprasad9/)
+ 
 <!---
 stragod/stragod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
