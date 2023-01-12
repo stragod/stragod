@@ -1,7 +1,7 @@
 ###### 👋 Hi there I am ragha and an aspiring data analyst
 ###### 👀 I’m interested in Data analysis and Artifical Intelligence
 ###### 🌱 I’m currently:
-- Learning Tableau and  advanced data visualization
+- Learning advanced data visualization using tableau
 - Polishing my data Wrangling and cleaning skills
 - Learning Data Scraping using Selenium.
 - Revisiting Power Query and Power Pivot in Excel 
