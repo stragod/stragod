@@ -1,4 +1,7 @@
-###### 👋 Hi there I am ragha and an aspiring data analyst
+###### 👋 Hi there I am ragha and am a data enthusiast with a passion for extracting insights and knowledge from data. With 1 year of experience in the field, I have acquired a strong skill set in data analysis, visualization, and modeling. I am proficient in using various tools and technologies such as Tableau,Excel,SQL and Python.
+
+###### Throughout my career, I have worked on a variety of projects across different domains. Each project has presented unique challenges and opportunities for me to apply my skills and learn new techniques.In this portfolio, I have showcased some of my best work and highlighted my strengths in data analysis, visualization, and modeling. Whether you are looking for data-driven solutions for your business or just interested in learning more about the field, I hope that you will find this portfolio informative and engaging.
+
 ###### 👀 I’m interested in Data analysis and Artifical Intelligence
 ###### 🌱 I’m currently:
 - Learning advanced data visualization using tableau
