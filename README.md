@@ -4,6 +4,7 @@
 
 ###### 👀 I’m interested in Data analysis and Artifical Intelligence
 ###### 🌱 I’m currently:
+- improving querying efficieny by leveraging ChatGPT
 - Learning advanced data visualization using tableau
 - Polishing my data Wrangling and cleaning skills
 - Learning Data Scraping using Selenium.
