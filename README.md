@@ -1,20 +1,29 @@
-###### 👋 Hi there I am ragha and am a data enthusiast with a passion for extracting insights and knowledge from data. With 1 year of experience in the field, I have acquired a strong skill set in data analysis, visualization, and modeling. I am proficient in using various tools and technologies such as Tableau,Excel,SQL and Python.
+###### 👋 Hello, I'm Ragha I’m a Data Analyst with 2 years of hands-on experience in extracting valuable insights from data to drive strategic decision-making. My expertise spans data analysis, visualization, and modeling, leveraging tools like SQL, Python, Tableau, and Excel to deliver actionable insights.
 
-###### Throughout my career, I have worked on a variety of projects across different domains. Each project has presented unique challenges and opportunities for me to apply my skills and learn new techniques.In this portfolio, I have showcased some of my best work and highlighted my strengths in data analysis, visualization, and modeling. Whether you are looking for data-driven solutions for your business or just interested in learning more about the field, I hope that you will find this portfolio informative and engaging.
+###### Throughout my career, I’ve successfully completed projects across various industries, each offering unique opportunities to refine my skills and learn new techniques. This portfolio highlights my strengths in data analysis, data cleaning, and dashboard development, showcasing the impact I’ve made through my work.
 
-###### 👀 I’m interested in Data analysis and Artifical Intelligence
-###### 🌱 I’m currently:
-- improving querying efficieny by leveraging ChatGPT
-- Learning advanced data visualization using tableau
-- Polishing my data Wrangling and cleaning skills
-- Learning Data Scraping using Selenium.
-- Revisiting Power Query and Power Pivot in Excel 
+###### 👀 Areas of Interest:
+ - Data Analysis
+ - Business Intelligence
+ - Data Visualization
+ - Artificial Intelligence
+ - Sustainability and circular economy
+   
+###### 🌱 Currently Improving:
+- Improving query efficiency using ChatGPT
+- Enhancing advanced data visualization skills with Tableau
+- Deepening expertise in data cleaning and wrangling
+- Expanding knowledge in web scraping with Selenium
+- Revisiting Power Query and Power Pivot in Excel
 
 ###### Core competencies:
-- Tools: SQL,Python,Tableau,MS Excel
-- Skills: Data Analysis,Data Visualization,Data Cleaning and Wrangling,Machine Learning,Dashboard development and Design
+- Tools: SQL, Python, Tableau, Power BI, MS Excel
+- Skills: Data Analysis, Data Cleaning & Wrangling, Data Visualization, Machine Learning, Dashboard Development & Design
+- Methodologies: Agile, Business Process Improvement, Statistical Analysis
 
-###### 💞️ I’m looking to collaborate on Data analysis projects
+###### 💞️  Open to Collaborations:
+I am eager to collaborate on data-driven projects that focus on data analysis, business intelligence, and advanced data visualization.
+
 ###### 📫 How to reach me :
  - [LinkedIn](https://www.linkedin.com/in/raghavendraprasad9/)
  - [Gmail](mailto:raghaje@gmail.com) - raghaje@gmail.com
