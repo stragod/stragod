@@ -1,4 +1,4 @@
-###### 👋 Hello, I'm Ragha I’m a Data Analyst with 2 years of hands-on experience in extracting valuable insights from data to drive strategic decision-making. My expertise spans data analysis, visualization, and modeling, leveraging tools like SQL, Python, Tableau, and Excel to deliver actionable insights.
+###### 👋 Hello, I'm Ragha I’m a Data Analyst with 4 years of hands-on experience in extracting valuable insights from data to drive strategic decision-making. My expertise spans data analysis, visualization, and modeling, leveraging tools like SQL, Python, Tableau, and Excel to deliver actionable insights.
 
 ###### Throughout my career, I’ve successfully completed projects across various industries, each offering unique opportunities to refine my skills and learn new techniques. This portfolio highlights my strengths in data analysis, data cleaning, and dashboard development, showcasing the impact I’ve made through my work.
 
